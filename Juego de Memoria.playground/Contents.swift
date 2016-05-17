@@ -52,7 +52,6 @@ for var numero in 0...100 {
     if numero > 0 && numero % 2 == 0 {       // si el residuo es cero o no existte es divisible entre dos,
         //por lo tanto es par, siempre y cuando no sea cero el valor de la variable
         
-        
         print ("\(numero)  par!!!")
     } else if numero > 0 && numero % 2 != 0 {    // de lo contrario, sí existe residuo es impar, siempre y cuando no sea cero
         print ("\(numero)   impar !!!")           //el valor de la variable
