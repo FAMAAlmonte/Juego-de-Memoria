@@ -1,5 +1,3 @@
-
-
 //: Playground - noun: a place where people can play
 
 //Programa un playground que evalúe un rango de números en base a 4 reglas de impresión.
